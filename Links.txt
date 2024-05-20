@@ -1,0 +1,22 @@
+Links that might be useful
+**************************
+
+R packages
+**********
+Changepoint (the origin package!) - https://cran.r-project.org/web/packages/changepoint/
+devtools (for developing packages) - https://cran.r-project.org/web/packages/devtools/index.html
+
+Tutorial on making R packages - https://r-pkgs.org/
+
+
+Introductory Papers
+*******************
+
+Introduction to the changepoint package - https://www.jstatsoft.org/article/view/v058i03
+(Mathematical) Introduction to changepoints - https://lancs.ac.uk/~killick/Pub/EckleyFearnheadKillick2010.pdf
+
+
+Trying to download Rebecca's brain!
+***********************************
+Tutorial on the changepoint package - https://www.youtube.com/watch?v=UfGrLJ7S3sc
+Overview of changepoints, research and problems - https://www.youtube.com/watch?v=QgmiA8pZFj8
