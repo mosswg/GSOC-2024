@@ -7,6 +7,7 @@ Changepoint (the origin package!) - https://cran.r-project.org/web/packages/chan
 devtools (for developing packages) - https://cran.r-project.org/web/packages/devtools/index.html
 
 Tutorial on making R packages - https://r-pkgs.org/
+ROpenSci statistical software standards (not a bible!) - https://stats-devguide.ropensci.org/
 
 
 Introductory Papers
