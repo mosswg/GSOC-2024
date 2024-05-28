@@ -21,3 +21,9 @@ Trying to download Rebecca's brain!
 ***********************************
 Tutorial on the changepoint package - https://www.youtube.com/watch?v=UfGrLJ7S3sc
 Overview of changepoints, research and problems - https://www.youtube.com/watch?v=QgmiA8pZFj8
+
+Building packages on Github
+***************************
+
+Code Cov - https://about.codecov.io/tool/github-actions/
+For github actions and R there are some resources for some basic templates but you can also copy from one of my existing repositories: https://github.com/rkillick/changepoint/actions
