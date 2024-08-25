@@ -1,0 +1,3 @@
+Over this project I worked to create a new R package called changepoint.periodic and add additional functionality to an existing package, changepoint. The changepoint.periodic package consists of the periodic segment neighbourhood algorithm in C as well as supporting functions in R. The additions to the changepoint package consist of writing the non-periodic segment neighbourhood algorithm in C as well as adding periodic segment neighbourhood as a cost function for the existing PELT algorithm. \
+Changepoint Package: https://github.com/mosswg/changepoint/tree/segneigh_c \
+Changepoint.periodic Package: https://github.com/mosswg/changepoint.periodic
